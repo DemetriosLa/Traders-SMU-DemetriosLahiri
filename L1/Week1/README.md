@@ -1,8 +1,8 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+Demetrios Lahiri
+dlahiri@smu.edu  
+*Level 1 (Junior)
 
 ## 1. Background in Quantitative Finance
 
@@ -27,38 +27,16 @@
 
 ## 3. What I Hope to Learn from This Program
 
-*In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
-
+I hope to gain a deeper understanding of stastical modeling and the general field of quantitative finance, as well as to better understand the math, programing skills neccesary for success in this field. I also hope to learn, through the different classes of models that can be used to build the strategies for stock trading, how to better gauge the range of a stock, so that I may buy or sell my stocks more efficently in the future.
 *Delete these instructions and write 100-150 words*
 
 ## 4. Current Technical Skills
 
-*In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
-- *Programming languages (Python, R, etc.)*
-- *Data analysis tools*
-- *Statistical analysis*
-- *Financial modeling*
-- *Machine learning*
-- *Version control (Git)*
-- *Other relevant skills*
-
-*Delete these instructions and write 75-100 words*
+I have a basic understanding of python coding, so I would rate myself as a beginner. I have done some basic work in financial modeling as it pertains to the stock exchange, but have not yet fully gained the programming skills to make a complex financial model. I have also had some experience in coding some basic parallel framework machine learning systems, as I have participated in a program that discussed how to build some basic parallel systems, as well as the merits of these systems.
 
 ## 5. Development Plan & Program Goals
 
-*In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
-
-*Delete these instructions and write 100-150 words*
+In this program, I hope to be able to gain a understanding of how to code in python, understand how to use python coding in high frequency trading, and learn to understand the "greeks" of finance and how I can use them in stastical modeling. I also hope to better understand and utilze models such as the Black-Scholes Model and how it pertains to financial probabilty. I hope to do this by studying the books, resoruces, and projects that will be offered by this program, as well as doing further personal research on at least one finace term and model system each week. I shall measure my progress by looking at my performance on the quizzes offered by this program, and how well I am able to retain the information I have learned over the week.
 
 ---
 
