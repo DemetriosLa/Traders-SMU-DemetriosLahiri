@@ -6,17 +6,11 @@ dlahiri@smu.edu
 
 ## 1. Background in Quantitative Finance
 
-*In this section, describe your current background in quantitative finance. This could include:*
-- *Relevant coursework or degrees*
-- *Previous internships or jobs*
-- *Personal projects or research*
-- *Trading experience (if any)*
-- *What sparked your interest in quant finance*
-
-*Delete these instructions and write 100-150 words*
+Though I regrettably have not had any jobs or internships in the finance field as of yet, I have had extensive trading experience as I have invested in stocks since I was 11. In this trading experience, I have inadvertently learned a few key quantitative finance concepts such as the importance of hedging, judging a market's volatility, and unwittingly applying basic statistical models to inform when to sell or buy a stock based on the average price this stock achieved and its most probable path of growth. When I joined SMU and the quantitative finance club and the field of quantitative finance in general, I saw that, if I had learned some of these concepts earlier, I would have been able to make much more informed decisions on when to buy and sell instead of relying on mere "blind reckoning", showing me the merits of this fascinating field.
 
 ## 2. Career Goals
 
+I hope to eventually utilize the skills I will have learned from this program to gain a position as a 
 *In this section, outline your short and long-term career goals. Be specific about:*
 - *What roles or positions interest you*
 - *Which companies or types of firms you'd like to work for*
@@ -27,8 +21,7 @@ dlahiri@smu.edu
 
 ## 3. What I Hope to Learn from This Program
 
-I hope to gain a deeper understanding of stastical modeling and the general field of quantitative finance, as well as to better understand the math, programing skills neccesary for success in this field. I also hope to learn, through the different classes of models that can be used to build the strategies for stock trading, how to better gauge the range of a stock, so that I may buy or sell my stocks more efficently in the future.
-*Delete these instructions and write 100-150 words*
+I hope to be able to gain an understanding of the quantitative finance field and how it pertains to high frequency trading, better understand the intricacies present in coding with python and C++, exactly how to use it to issue trades, and I hope to gain a better understanding of how to develop and pitch my statistical analysis of a stock. I also hope to learn, through the different classes of models that can be used to build the strategies for stock trading, how to better gauge the range of a stock, so that I may buy or sell my stocks more efficiently in the future. Ultimately, I hope eventually to meld the concepts I learn with my other interests, such as engineering, so that I will be able to find a sector in the quantitative finance field that I can excel at, becoming an expert in this field.
 
 ## 4. Current Technical Skills
 
