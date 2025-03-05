@@ -36,7 +36,9 @@ I have a basic understanding of python coding, so I would rate myself as a begin
 
 ## 5. Development Plan & Program Goals
 
-In this program, I hope to be able to gain a understanding of how to code in python, understand how to use python coding in high frequency trading, and learn to understand the "greeks" of finance and how I can use them in stastical modeling. I also hope to better understand and utilze models such as the Black-Scholes Model and how it pertains to financial probabilty. I hope to do this by studying the books, resoruces, and projects that will be offered by this program, as well as doing further personal research on at least one finace term and model system each week. I shall measure my progress by looking at my performance on the quizzes offered by this program, and how well I am able to retain the information I have learned over the week.
+
+
+In this program, I hope to be able to gain an understanding of how to code and use python in high frequency trading, as well as to understand the "greeks" of finance and how I can use them in statistical modeling. I also hope to better understand and utilize models such as the Black-Scholes Model and how it pertains to financial probability. I hope to do this by studying the books, resources, and projects that will be offered by this program, as well as doing further personal research on at least one finance term and model system each week. I shall measure my progress by looking at my performance on the quizzes offered by this program, and how well I am able to retain the information I have learned over the week. My definition of success would be to master python coding, and to gain an understanding of statistical modeling.
 
 ---
 
