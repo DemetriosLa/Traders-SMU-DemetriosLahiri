@@ -10,14 +10,7 @@ Though I regrettably have not had any jobs or internships in the finance field a
 
 ## 2. Career Goals
 
-I hope to eventually utilize the skills I will have learned from this program to gain a position as a 
-*In this section, outline your short and long-term career goals. Be specific about:*
-- *What roles or positions interest you*
-- *Which companies or types of firms you'd like to work for*
-- *Specific areas of finance you want to specialize in*
-- *What you hope to achieve in 1, 5, and 10 years*
-
-*Delete these instructions and write 100-150 words*
+In the long term, I hope to gain a position as a risk quant in a firm such as Jump trading as I would like to be involved in a firm that focuses on high frequency trading, as this is a fascinating concept to me. However I understand that, in the short term, this is probably an unrealistic goal due to the competition in this firm, so I shall attempt to better understand the concepts of hedging thus allowing me next year to find a less competitive firm, such as the 1989 Millennium Management hedge fund, allowing me to build experience in the quantitative finance field. Ultimately I hope to find a niche in the quantitative finance field which I can excel in, allowing me to become the expert in this field, and ultimately allowing me to progress to a higher position in a firm such as Jump trading.
 
 ## 3. What I Hope to Learn from This Program
 
