@@ -26,6 +26,5 @@ Complete the following tasks:
 
 ## Resources
 
-- [Resource 1]
-- [Resource 2]
-- [Resource 3] 
+- https://github.com/DemetriosLa/Traders-SMU-Demetrios-Lahiri/blob/main/Goldman%20sachs%20python%20review.pdf
+- https://github.com/DemetriosLa/Traders-SMU-Demetrios-Lahiri/blob/main/Python%20week%202%20tutorial%20review.pdf 
